@@ -15,3 +15,7 @@
 => npm install discord.js <br />
 => [opt] npm install --save-dev eslint <br />
 => npm install @discordjs/rest discord-api-types <br />
+
+## If you want to add slash command or update <br />
+1) go to config/deploy-commands.js
+2) run node deploy-commands.js

@@ -1,11 +1,11 @@
 # Celestial
-[x] Clear command
-[ ] Kick command
-[ ] Ban command
-[x] General Info about bot
-[x] server info
-[x] user info
+[x] Clear command \n
+[ ] Kick command \n
+[ ] Ban command \n
+[x] General Info about bot \n
+[x] server info \n
+[x] user info \n
 
-# Some other command
-[x] slash command
-[ ] buttons
+# Some other command \n
+[x] slash command \n
+[ ] buttons \n

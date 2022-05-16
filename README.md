@@ -9,3 +9,9 @@
 # Some other command <br />
 [x] slash command <br />
 [ ] buttons <br />
+
+# What you need to install? <br />
+=> Install nodejs -> https://nodejs.org/en/ <br />
+=> npm install discord.js <br />
+=> [opt] npm install --save-dev eslint <br />
+=> npm install @discordjs/rest discord-api-types <br />

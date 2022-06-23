@@ -13,12 +13,14 @@
 # What you need to install?
 1. Install the nodejs  
 [![NodeJS](https://img.shields.io/node/v/discord.js?style=for-the-badge)](https://nodejs.org/en/download/) <br />
-2. Now you have to download discord.js
+1. Now you have to download discord.js
 ```npm 
 npm install discord.js
 ```
-=> [opt] npm install --save-dev eslint <br />
-=> npm install @discordjs/rest discord-api-types <br />
+1. And final package for slash command
+```npm
+npm install @discordjs/rest discord-api-types
+```
 
 ## If you want to add slash command or update <br />
 1) go to config/deploy-commands.js

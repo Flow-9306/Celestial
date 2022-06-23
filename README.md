@@ -22,6 +22,6 @@ npm install discord.js
 npm install @discordjs/rest discord-api-types
 ```
 
-## If you want to add slash command or update <br />
-1) go to config/deploy-commands.js
-2) run node deploy-commands.js
+## If you want to add custom slash command or want to update
+1. Go to **config/deploy-commands.js**
+2. Then run: **node deploy-commands.js**

@@ -17,7 +17,7 @@
 ```npm 
 npm install discord.js
 ```
-1. And final package for slash command
+3. And final package for slash command
 ```npm
 npm install @discordjs/rest discord-api-types
 ```

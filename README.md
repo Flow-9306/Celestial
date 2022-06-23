@@ -1,14 +1,14 @@
 # Celestial
-* [x] Clear command <br />
-* [ ] Kick command <br />
-* [ ] Ban command <br />
-* [x] General Info about bot <br />
-* [x] server info <br />
-* [x] user info <br />
-<br />
-# Some other command <br />
-* [x] slash command <br />
-* [X] buttons <br />
+* [x] Clear command
+* [ ] Kick command
+* [ ] Ban command
+* [x] General Info about bot
+* [x] server info
+* [x] user info
+
+# Some other command
+* [x] slash command
+* [x] buttons
 
 # What you need to install? <br />
 => Install nodejs -> https://nodejs.org/en/ <br />

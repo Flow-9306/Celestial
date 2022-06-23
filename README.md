@@ -14,9 +14,9 @@
 1. Install the nodejs  
 [![NodeJS](https://img.shields.io/node/v/discord.js?style=for-the-badge)](https://nodejs.org/en/download/) <br />
 2. Now you have to download discord.js
-'''npm 
+```npm 
 npm install discord.js
-'''
+```
 => [opt] npm install --save-dev eslint <br />
 => npm install @discordjs/rest discord-api-types <br />
 

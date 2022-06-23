@@ -11,6 +11,7 @@
 * [x] buttons
 
 # What you need to install? <br />
+![NodeJS](https://img.shields.io/node/v/discord.js?style=for-the-badge)
 => Install nodejs -> https://nodejs.org/en/ <br />
 => npm install discord.js <br />
 => [opt] npm install --save-dev eslint <br />
